@@ -50,6 +50,10 @@ export default {
           path: '/photo'
         },
         {
+          name: 'Конференции',
+          path: '/conference'
+        },
+        {
           name: 'Контакты',
           path: '/contacts'
         }

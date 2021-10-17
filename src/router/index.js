@@ -5,6 +5,7 @@ import About from '../views/About.vue'
 import Contacts from '@/views/Contacts'
 import Photo from '@/views/Photo'
 import Research from '@/views/Research'
+import Conferences from '@/views/Conferences'
 
 Vue.use(VueRouter)
 
@@ -33,8 +34,12 @@ const routes = [
     path: '/research',
     name: 'Research',
     component: Research
+  },
+  {
+    path: '/conference',
+    name: 'Conferences',
+    component: Conferences
   }
-
 ]
 
 const router = new VueRouter({
