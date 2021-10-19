@@ -21,7 +21,7 @@
                 <a href="https://drive.google.com/file/d/1jSw3FvCcmEyNG9E5cXx0c_Y9Pw4gUPWF/view?usp=sharing" target="_blank">
                     <li> Ежелев З.С. Миграция нефтепродуктов в почве: модельные фильтрационные эксперименты </li>
                 </a>
-                <a href="https://drive.google.com/file/d/1v-sej4D-RKEvGP28hPlte0ibcHn4NUF1/view?usp=drivesdk" target="_blank">
+                <a href="https://drive.google.com/file/d/1IR6eW6zWeoihVSfzXF1gtCC5h-ko56s_/view?usp=sharing" target="_blank">
                     <li> Кокорева А.А., Белик А.А. Экспериментальное исследование и математическое моделирование миграции имидаклоприда в дерново-подзолистых почвах </li>
                 </a>
                 <a href="https://drive.google.com/file/d/1q0P8BF_JTdwqD8AMUnvbZW_o9tbJoNuo/view?usp=sharing" target="_blank">
